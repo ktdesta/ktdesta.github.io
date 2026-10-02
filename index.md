@@ -20,31 +20,20 @@ Since February 2026 I have been an Assistant Professor at DGIST. Before that, I 
 
 ## Experience
 
-<ul class="cv-list">
-  <li><span class="cv-date">Feb 2026 – Present</span>
-    <strong>Assistant Professor</strong>, DGIST, Daegu, South Korea</li>
-  <li><span class="cv-date">Aug 2019 – Present</span>
-    <strong>Postdoctoral Research Fellow</strong>, National Agrobiodiversity Center, National Institute of Agricultural Sciences, Rural Development Administration, Jeonju, South Korea</li>
-  <li><span class="cv-date">Oct 2018 – Jul 2019</span>
-    <strong>Assistant Professor</strong>, Adama Science and Technology University, Adama, Ethiopia</li>
-  <li><span class="cv-date">Sep 2017 – Sep 2018</span>
-    <strong>Assistant Professor</strong>, Mekelle University, Mekelle, Ethiopia</li>
-  <li><span class="cv-date">Sep 2012 – Jul 2013</span>
-    <strong>Lecturer</strong>, Mekelle University, Mekelle, Ethiopia</li>
-  <li><span class="cv-date">Nov 2010 – Aug 2012<br>Nov 2006 – Sep 2008</span>
-    <strong>Lecturer</strong>, Wollega University, Nekemte, Ethiopia</li>
-</ul>
+- Feb 2026 – Present: Assistant Professor, DGIST, Daegu, South Korea
+- Aug 2019 – 2026: Postdoctoral Research Fellow, National Agrobiodiversity Center, Jeonju, South Korea
+- Oct 2018 – Jul 2019: Assistant Professor, Adama Science and Technology University, Adama, Ethiopia
+- Sep 2017 – Sep 2018: Assistant Professor, Mekelle University, Mekelle, Ethiopia
+- Sep 2012 – Jul 2013: Lecturer, Mekelle University, Mekelle, Ethiopia
+- Nov 2010 – Aug 2012; Nov 2006 – Sep 2008: Lecturer, Wollega University, Nekemte, Ethiopia
+
 
 ## Education
 
-<ul class="cv-list">
-  <li><span class="cv-date">2014 – 2017</span>
-    <strong>PhD in Science (Organic Chemistry)</strong>, Gyeongsang National University, Jinju, Republic of Korea</li>
-  <li><span class="cv-date">2008 – 2010</span>
-    <strong>MSc (Organic Chemistry)</strong>, Hawassa University, Hawassa, Ethiopia</li>
-  <li><span class="cv-date">2002 – 2006</span>
-    <strong>Bachelor of Education (Chemistry)</strong>, Debub University, Dilla, Ethiopia</li>
-</ul>
+- PhD in Science: Gyeongsang National University, Jinju, Republic of Korea
+- MSc in Organic Chemistry: Hawassa University, Hawassa, Ethiopia
+- BEd in Chemistry, Debub University, Dilla, Ethiopia
+  
 
 ## Awards
 
