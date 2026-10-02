@@ -1,0 +1,51 @@
+# Site Info
+title: Kebede Taye Desta
+tagline: 'Organic Chemistry &middot; Natural Products &middot; Food Biochemistry'
+description: 'Personal homepage of Kebede Taye Desta, PhD, Assistant Professor at DGIST.'
+# Served at the root of https://ktdesta.github.io/ (repository: ktdesta.github.io).
+baseurl: ""
+url: "https://ktdesta.github.io"
+
+# Site configurations
+plugins: []
+markdown: kramdown
+kramdown:
+  input: GFM
+sass:
+  style: compressed
+  sass_dir: _scss
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - vendor
+
+# About/contact
+author:
+  name: Kebede Taye Desta
+  photo: '/public/img/profile.jpg'
+  description: <strong>Kebede Taye Desta, PhD</strong><br>Assistant Professor, DGIST<br>Daegu, Republic of Korea
+  contact:
+    email:          'mailto:kebetila@gmail.com'
+    google-scholar: 'https://scholar.google.com/citations?user=044vtEkAAAAJ&view_op=list_works&sortby=pubdate'
+    scopus:         'https://www.scopus.com/authid/detail.uri?authorId=56717555100'
+
+# Navigation (2nd level links supported)
+nav:
+  About:
+    - '/'
+  Members:
+    - '/members/'
+  Research:
+    - '/research/'
+  Publications:
+    - '/publications/'
+  Courses:
+    - '/courses/'
+
+# Puglins
+mathjax: false
+google_analytics_token: ''
+disqus_short_name: ''

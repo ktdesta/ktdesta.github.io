@@ -1,0 +1,98 @@
+/*
+ * Profile, CV lists, members and publications
+ */
+
+.profile {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 2rem;
+  .profile-photo {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 1.5rem 1rem 0;
+  }
+  .profile-text {
+    flex: 1 1 18rem;
+    p { margin-bottom: .5rem; }
+  }
+}
+
+.cv-list {
+  list-style: none;
+  padding-left: 0;
+  li {
+    display: flex;
+    margin-bottom: .6rem;
+  }
+  .cv-date {
+    flex: 0 0 11rem;
+    color: $post-date-color;
+    font-size: .9em;
+  }
+  @media (max-width: 38em) {
+    li { display: block; }
+    .cv-date { display: block; }
+  }
+}
+
+.member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 1.25rem 0 0;
+  }
+  p { margin-bottom: 0; }
+}
+
+.pub-list {
+  padding-left: 1.5rem;
+  li { margin-bottom: 1rem; }
+  .me {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+}
+
+.sidebar-personal-info-section img {
+  border-radius: 50%;
+}
+
+/* Top navigation bar in the masthead */
+.masthead {
+  z-index: 5;
+  @media (max-width: 38em) {
+    position: static;
+  }
+  .masthead-nav {
+    margin-top: .5rem;
+    font-family: $font-sans;
+    a {
+      display: inline-block;
+      margin-right: 1.25rem;
+      color: $default;
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      &:hover, &.active {
+        color: $theme-color;
+        border-bottom-color: $theme-color;
+      }
+    }
+    @media (max-width: 48em) {
+      text-align: center;
+      a { margin: 0 .5rem; }
+    }
+  }
+}
+@media (min-width: 38em) {
+  .container.content {
+    padding-top: 9rem;
+  }
+}
