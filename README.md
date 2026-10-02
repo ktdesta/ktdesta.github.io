@@ -7,16 +7,16 @@ Live site: https://ktdesta.github.io/
 
 ## Pages
 
-| Page | File |
+| Page | Edit |
 |---|---|
-| About (home) | `index.md` |
-| Members | `members.md` |
-| Research | `research.md` |
-| Publications | `publications.md` |
-| Courses | `courses.md` |
+| About (home) | [index.md](https://github.com/ktdesta/ktdesta.github.io/edit/main/index.md) |
+| Members | [members.md](https://github.com/ktdesta/ktdesta.github.io/edit/main/members.md) |
+| Research | [research.md](https://github.com/ktdesta/ktdesta.github.io/edit/main/research.md) |
+| Publications | [publications.md](https://github.com/ktdesta/ktdesta.github.io/edit/main/publications.md) |
+| Courses | [courses.md](https://github.com/ktdesta/ktdesta.github.io/edit/main/courses.md) |
 
-Site title, sidebar text, contact links and navigation are set in `_config.yml`.
-Theme colors are in `_scss/_config.scss`.
+Site title, sidebar text, contact links and navigation are set in [_config.yml](https://github.com/ktdesta/ktdesta.github.io/edit/main/_config.yml).
+Theme colors are in [_scss/_config.scss](https://github.com/ktdesta/ktdesta.github.io/edit/main/_scss/_config.scss).
 
 ## Run locally
 
