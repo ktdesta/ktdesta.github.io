@@ -8,7 +8,7 @@ title: About
   <div class="profile-text">
     <p class="lead"><strong>Kebede Taye Desta, PhD</strong><br>
     Assistant Professor, DGIST (Daegu Gyeongbuk Institute of Science and Technology), Daegu, Republic of Korea</p>
-    <p><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:kebetila@gmail.com">kebetila@gmail.com</a><br>
+    <p><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:kebetila@gmail.com">ktdesta@dgist.ac.kr</a><br>
     <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="{{ site.author.contact['google-scholar'] }}">Google Scholar</a> &nbsp;|&nbsp;
     <i class="fa fa-book" aria-hidden="true"></i> <a href="{{ site.author.contact.scopus }}">Scopus (ID: 56717555100)</a></p>
   </div>
