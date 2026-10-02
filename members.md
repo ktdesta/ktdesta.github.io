@@ -9,10 +9,9 @@ permalink: /members/
 <div class="member">
   <img src="{{ site.baseurl }}{{ site.author.photo }}" alt="Kebede Taye Desta">
   <div>
-    <p><strong>Kebede Taye Desta, PhD</strong><br>
+    <p><strong>Kebede Taye Desta </strong><br>
     Assistant Professor, DGIST<br>
-    PhD in Organic Chemistry, Gyeongsang National University<br>
-    <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:kebetila@gmail.com">kebetila@gmail.com</a></p>
+    <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:ktdesta@dgist.ac.kr">ktdesta@dgist.ac.kr</a></p>
   </div>
 </div>
 
